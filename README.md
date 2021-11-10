@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Virgilio Junior</h1>
+<h1 align="center">Virgílio Júnior</h1>
 
 </br></br>
 
