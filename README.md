@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </br></br>
 
 
-### <p align="center"> Engenheiro de Software DevOps, Dev Python & Pai de duas princesas </p>
+### <p align="center"> SRE DevOps, Dev Python(aprendiz) & Pai de duas princesas </p>
 ###
 ###
 ###
