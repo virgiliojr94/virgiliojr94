@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 </br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:virgilio.junior@hotmail.com)](mailto:virgilio.junior@hotmail.com)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virgiliojunior94/)](https://www.linkedin.com/in/virgiliojunior94/)[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5595981121572)](https://api.whatsapp.com/send?phone=5595981121572)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:virgilio.junior94@gmail.com)](mailto:virgilio.junior94@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virgiliojunior94/)](https://www.linkedin.com/in/virgiliojunior94/)[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5595981121572)](https://api.whatsapp.com/send?phone=5595981121572)
 
 ### 
 
