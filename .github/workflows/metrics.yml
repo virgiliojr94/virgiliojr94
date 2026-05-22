@@ -1,0 +1,33 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+  push:
+    branches: ["main", "master"]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Stargazers
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stargazers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: graph
+
+      - name: Topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
