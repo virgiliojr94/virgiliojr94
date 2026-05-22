@@ -1,48 +1,47 @@
-<!--
-**hudshowdr90/hudshowdr90** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--  Fun fact: ...
--->
-
-
-
 <h1 align="center">Virgílio Júnior</h1>
+<p align="center">SRE · DevOps · Python · Pai de duas princesas 👧👧</p>
 
-</br></br>
+<p align="center">
+  <a href="mailto:virgilio.junior94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/virgiliojunior94/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5595981121572"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
+---
 
-### <p align="center"> SRE DevOps, Dev Python(aprendiz) & Pai de duas princesas </p>
-###
-###
-###
+## 🚀 Projetos em destaque
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/virgiliojr94/book-to-skill">
+        <b>📚 book-to-skill</b>
+      </a><br/>
+      <sub>Transforma qualquer PDF técnico em uma skill do Claude Code</sub><br/>
+      <img src="https://img.shields.io/github/stars/virgiliojr94/book-to-skill?style=social"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/virgiliojr94/localpdf.io">
+        <b>📄 localpdf.io</b>
+      </a><br/>
+      <sub>Processamento de PDFs localmente no browser</sub><br/>
+      <img src="https://img.shields.io/github/stars/virgiliojr94/localpdf.io?style=social"/>
+    </td>
+  </tr>
+</table>
 
-</br></br>
+---
 
+## 📊 Stargazers
 
-###
+<p align="center">
+  <img src="metrics.plugin.stargazers.svg"/>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=virgiliojr94)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-###
+## 🏷️ Tópicos de interesse
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=virgiliojr94)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Contato
-
-</br>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:virgilio.junior94@gmail.com)](mailto:virgilio.junior94@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virgiliojunior94/)](https://www.linkedin.com/in/virgiliojunior94/)[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5595981121572)](https://api.whatsapp.com/send?phone=5595981121572)
-
-### 
-
+<p align="center">
+  <img src="metrics.plugin.topics.svg"/>
+</p>
