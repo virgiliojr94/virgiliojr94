@@ -11,8 +11,6 @@
   <a href="https://api.whatsapp.com/send?phone=5595981121572"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
----
-
 ### 👨‍💻 Sobre mim
 
 - 🔭 SRE de dia, dev de madrugada
@@ -21,8 +19,6 @@
 - 🐍 Python é minha linguagem do dia a dia, mas não fico preso a ela
 - ☁️ Vivo entre Kubernetes, Terraform e dashboards de Grafana
 - 👧👧 Pai de duas princesas
-
----
 
 ### 🚀 Projetos em destaque
 
@@ -45,8 +41,6 @@
   </tr>
 </table>
 
----
-
 ### 📊 Linguagens
 
 <p align="center">
@@ -59,12 +53,4 @@
 
 <p align="center">
   <img src="metrics.plugin.stargazers.svg"/>
-</p>
-
----
-
-### 🏷️ Tópicos de interesse
-
-<p align="center">
-  <img src="metrics.plugin.topics.svg"/>
 </p>
