@@ -47,9 +47,3 @@
 </p>
 
 ---
-
-### ⭐ Evolução de estrelas
-
-<p align="center">
-  <img src="metrics.plugin.stargazers.svg"/>
-</p>
